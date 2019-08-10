@@ -8,3 +8,4 @@ Git is free software distributed under the GPL.
 666
 555
 444
+Creating a new branch is quick.
